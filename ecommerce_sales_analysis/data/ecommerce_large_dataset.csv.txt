@@ -1,0 +1,41 @@
+Order_ID,Customer_Name,Product,Category,Quantity,Price,Total_Amount,Order_Date,City,Payment_Method,Delivery_Status
+1001,Arjun Nair,Laptop,Electronics,1,55000,55000,2025-01-01,Kochi,UPI,Delivered
+1002,Meera Joseph,Keyboard,Electronics,2,1500,3000,2025-01-02,Calicut,Credit Card,Delivered
+1003,Rahul Menon,Mouse,Electronics,3,700,2100,2025-01-03,Bangalore,Debit Card,Pending
+1004,Anjali Das,Chair,Furniture,1,3500,3500,2025-01-04,Chennai,Cash,Delivered
+1005,Vinay Kumar,Desk,Furniture,1,6000,6000,2025-01-05,Hyderabad,UPI,Cancelled
+1006,Diya S,Laptop,Electronics,2,55000,110000,2025-01-06,Mumbai,Credit Card,Delivered
+1007,Kiran Raj,Headphones,Electronics,4,2000,8000,2025-01-07,Delhi,UPI,Pending
+1008,Sneha Pillai,Table,Furniture,1,4500,4500,2025-01-08,Pune,Debit Card,Delivered
+1009,Akhil George,Monitor,Electronics,2,12000,24000,2025-01-09,Kochi,Credit Card,Delivered
+1010,Nithin P,Printer,Electronics,1,8000,8000,2025-01-10,Calicut,Cash,Pending
+1011,Asha Ravi,Mobile,Electronics,1,25000,25000,2025-01-11,Bangalore,UPI,Delivered
+1012,Rohit Das,Keyboard,Electronics,3,1500,4500,2025-01-12,Chennai,Debit Card,Delivered
+1013,Neha Thomas,Mouse,Electronics,5,700,3500,2025-01-13,Mumbai,Credit Card,Pending
+1014,Aditya Menon,Chair,Furniture,2,3500,7000,2025-01-14,Hyderabad,Cash,Delivered
+1015,Varsha Nair,Desk,Furniture,1,6000,6000,2025-01-15,Delhi,UPI,Cancelled
+1016,Aravind K,Monitor,Electronics,1,12000,12000,2025-01-16,Pune,Credit Card,Delivered
+1017,Lakshmi P,Headphones,Electronics,2,2000,4000,2025-01-17,Kochi,Debit Card,Delivered
+1018,Manu Raj,Printer,Electronics,1,8000,8000,2025-01-18,Calicut,UPI,Pending
+1019,Sanjana M,Mobile,Electronics,2,25000,50000,2025-01-19,Bangalore,Credit Card,Delivered
+1020,Ajith Kumar,Laptop,Electronics,1,55000,55000,2025-01-20,Chennai,Cash,Delivered
+1021,Fathima Noor,Keyboard,Electronics,2,1500,3000,2025-01-21,Mumbai,UPI,Pending
+1022,Harish Nair,Mouse,Electronics,1,700,700,2025-01-22,Hyderabad,Debit Card,Delivered
+1023,Keerthana S,Chair,Furniture,3,3500,10500,2025-01-23,Delhi,Credit Card,Delivered
+1024,Rakesh Babu,Desk,Furniture,2,6000,12000,2025-01-24,Pune,Cash,Pending
+1025,Nimisha Roy,Monitor,Electronics,1,12000,12000,2025-01-25,Kochi,UPI,Delivered
+1026,Abhinav P,Headphones,Electronics,5,2000,10000,2025-01-26,Calicut,Credit Card,Cancelled
+1027,Deepa Mohan,Printer,Electronics,2,8000,16000,2025-01-27,Bangalore,Debit Card,Delivered
+1028,Sachin V,Mobile,Electronics,1,25000,25000,2025-01-28,Chennai,UPI,Delivered
+1029,Greeshma K,Laptop,Electronics,1,55000,55000,2025-01-29,Mumbai,Credit Card,Pending
+1030,Arunima T,Table,Furniture,2,4500,9000,2025-01-30,Hyderabad,Cash,Delivered
+1031,Pranav M,Keyboard,Electronics,4,1500,6000,2025-02-01,Delhi,UPI,Delivered
+1032,Arya S,Mouse,Electronics,3,700,2100,2025-02-02,Pune,Debit Card,Pending
+1033,Shyam Krishnan,Chair,Furniture,1,3500,3500,2025-02-03,Kochi,Credit Card,Delivered
+1034,Nandana P,Desk,Furniture,1,6000,6000,2025-02-04,Calicut,Cash,Delivered
+1035,Rithik Raj,Monitor,Electronics,2,12000,24000,2025-02-05,Bangalore,UPI,Pending
+1036,Malavika S,Headphones,Electronics,1,2000,2000,2025-02-06,Chennai,Credit Card,Delivered
+1037,Vishnu Das,Printer,Electronics,3,8000,24000,2025-02-07,Mumbai,Debit Card,Cancelled
+1038,Hiba Fathima,Mobile,Electronics,1,25000,25000,2025-02-08,Hyderabad,UPI,Delivered
+1039,Arjun P,Laptop,Electronics,2,55000,110000,2025-02-09,Delhi,Credit Card,Delivered
+1040,Devika Nair,Table,Furniture,1,4500,4500,2025-02-10,Pune,Cash,Pending
